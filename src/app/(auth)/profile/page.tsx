@@ -18,6 +18,7 @@ const ProfilePage = async () => {
     headers: await headers(), // you need to pass the headers object.
   });
   const user = session?.user;
+  if (!user) return null;
   //   console.log(user)
 
   return (
