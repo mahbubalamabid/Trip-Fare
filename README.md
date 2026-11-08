@@ -1,7 +1,5 @@
 # TripFare BD
 
-**Live Demo:** [https://trip-fare-five.vercel.app/](https://trip-fare-five.vercel.app/) *(Pending Deployment Verification)*
-
 ## Project Overview
 
 TripFare BD is a comprehensive travel fare monitoring and comparison web platform designed for commuters and travelers across Bangladesh. The application solves the problem of scattered and fluctuating travel costs by aggregating fare information across buses, trains, launches, flights, and ride-sharing services into a single, accessible dashboard. Commuters and travelers can effortlessly track daily fare trends, compare different transport operators, and identify the most affordable travel options before embarking on their journeys.
